@@ -5,7 +5,9 @@
   font-family: 'Roboto', sans-serif;
   /* background-color: #eff7ff; */
 }
-
+html {
+  background-color: #eff7ff;
+}
 body {
   height: 100vh;
   min-width: 353px;
